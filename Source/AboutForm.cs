@@ -7,6 +7,7 @@ namespace NamuDarbaiForm1
 	{
 		public AboutForm()
 		{
+
 			InitializeComponent();
 		}
 		
