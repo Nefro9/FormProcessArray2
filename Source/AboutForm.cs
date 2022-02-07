@@ -7,12 +7,15 @@ namespace NamuDarbaiForm1
 	{
 		public AboutForm()
 		{
-
 			InitializeComponent();
+
+
+
 		}
 		
 		void Button1Click(object sender, EventArgs e)
 		{
+		// test
 			this.Close();
 		}
 	}
