@@ -5,11 +5,10 @@ namespace NamuDarbaiForm1
 {
 	public partial class AboutForm : Form
 	{
+		// test 2
 		public AboutForm()
 		{
 			InitializeComponent();
-
-
 
 		}
 		
